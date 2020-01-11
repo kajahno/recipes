@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kajahno.me/recipes/en/recipes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kajahno.me/recipes/es/recipes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kajahno.me/recipes/en/recipes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kajahno.me/recipes/en/recipes/oven-roasted-herbed-potatoes/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kajahno.me/recipes/es/recipes/oven-roasted-herbed-potatoes/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kajahno.me/recipes/en/recipes/oven-roasted-herbed-potatoes/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kajahno.me/recipes/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kajahno.me/recipes/es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kajahno.me/recipes/en/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kajahno.me/recipes/en/credits/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kajahno.me/recipes/es/credits/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kajahno.me/recipes/en/credits/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kajahno.me/recipes/en/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kajahno.me/recipes/es/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kajahno.me/recipes/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://kajahno.me/recipes/en/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="https://kajahno.me/recipes/es/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://kajahno.me/recipes/en/tags/"
+                />
+  </url>
+  
+</urlset>
