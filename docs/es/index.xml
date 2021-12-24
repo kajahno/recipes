@@ -5,11 +5,7 @@
     <link>https://kajahno.me/recipes/es/</link>
     <description>Recent content on Recetas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://kajahno.me/recipes/es/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://kajahno.me/recipes/es/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Crédits</title>
       <link>https://kajahno.me/recipes/es/credits/</link>
